@@ -1,4 +1,4 @@
-# PS-001: Autonomous AI Software Development Platform
+#PS-001: Autonomous AI Software Development Platform
 
 Welcome to **PS-001**, a professional, fully functional AI-powered autonomous software engineering platform featuring a **cinematic 3D WebGL intro**, modern Linear/Vercel-inspired developer dashboard, real Python agent execution with **Gemini 3.8 Flash**, sandboxed file operations, and real-time pytest test verification.
 
